@@ -1,5 +1,5 @@
 # Proyecto-Instrumentacion-Unity MUSCLE RUN
-Este repositorio contiene el entorno virtual diseñado en Unity para el proyecto de la asignatura de Fundamentos de Sistemas e Instrumentación en
+Este repositorio contiene el entorno virtual diseñado en Unity por el grupo 3 para el proyecto de la asignatura de Fundamentos de Sistemas e Instrumentación en
 el Grado de Ingeniería Biomédica de la Universidad de Alicante.
 
 ## Instrucciones de Ejecución
